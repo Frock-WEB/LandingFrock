@@ -1,0 +1,22 @@
+{
+  "name": "landing-page-frock",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@primeuix/themes": "^1.1.1",
+    "primeflex": "^4.0.0",
+    "primevue": "^4.3.5",
+    "vue": "^3.5.13",
+    "vue-i18n": "^11.1.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.3",
+    "vite": "^6.3.5"
+  }
+}

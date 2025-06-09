@@ -1,0 +1,88 @@
+﻿{
+  "nav": {
+    "home": "Home",
+    "how-it-works": "How it Works",
+    "advantages": "Advantages",
+    "collaborate": "Collaborate"
+  },
+
+  "hero": {
+    "title" : "Your bus ready when you are",
+    "description": "Find the bus you need to reach your destination, explore the routes and find the one that best suits your needs.",
+    "button-text" : "Explore the bus stops"
+  },
+
+  "how-it-works": {
+    "title": "¿How it works?",
+    "number1": "Filter your city or town",
+    "number2": "Click on the bus-stop you are looking for",
+    "number3": "Get information on stops, schedules, etc."
+  },
+
+  "advantages": {
+    "title": "Advantages of using Chapa Tu Ruta",
+
+    "first": {
+      "title": "Find busses near you",
+      "description": "Easily locate available bus stops in your area without having to ask strangers."
+    },
+    "second": {
+      "title": "Forget about misinformation",
+      "description": "All the information organized and validated by the community in one place."
+    },
+    "third": {
+      "title": "Avoid walking too much or wasting time",
+      "description": "Get straight to the nearest bus stop with clear and updated routes."
+    },
+    "fourth": {
+      "title": "Ideal for new travelers or visitors",
+      "description": "Coming from another district or city? ChapaTuRuta guides you step by step."
+    },
+    "fifth": {
+      "title": "Made in Peru, designed for you",
+      "description": "A tool created by Peruvians who really know how the country moves."
+    }
+  },
+
+  "FAQ": {
+    "helper-text": "You ask, we answer",
+    "title": "Frequently Asked Questions",
+
+    "first": {
+      "question": "How much does it cost to use ChapaTuRuta?",
+      "answer": "Nothing! It is completely free for travelers."
+    },
+    "second": {
+      "question": "Does it also work for collective cabs or only rural cars?",
+      "answer": "It works for all types of buses that make fixed or semi-fixed routes between districts, cities or towns."
+    },
+    "third": {
+      "question": "How can I collaborate to ChapaTuRuta?",
+      "answer": "You can report bugs, upload new stops or routes, or even be a local volunteer - every little bit helps!"
+    },
+    "fourth": {
+      "question": "What do I do if I can't find a route?",
+      "answer": "You can search for nearby routes, try other points, or send us a suggestion from the contact form."
+    },
+    "fifth": {
+      "question": "Does ChapaTuRuta work throughout Peru?",
+      "answer": "We are growing slowly, but with the help of the community we will be able to expand nationwide in the future."
+    }
+  },
+
+  "footer": {
+    "social-media": "Social media",
+
+    "links": {
+      "title": "Go to",
+      "home": "Home",
+      "how-it-works": "How it Works",
+      "advantages": "Advantages",
+      "collaborate": "Collaborate"
+    },
+
+    "contact-us": "Contact Us",
+
+    "copyright": "All rights reserved."
+  }
+}
