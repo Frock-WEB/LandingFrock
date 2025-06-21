@@ -1,0 +1,55 @@
+{
+  "hash": "c29db7b3",
+  "configHash": "7a35aa19",
+  "lockfileHash": "31b1956c",
+  "browserHash": "bd80d1c7",
+  "optimized": {
+    "vue": {
+      "src": "../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "0a804ec0",
+      "needsInterop": false
+    },
+    "primevue/config": {
+      "src": "../../node_modules/primevue/config/index.mjs",
+      "file": "primevue_config.js",
+      "fileHash": "4301d5ac",
+      "needsInterop": false
+    },
+    "@primeuix/themes/aura": {
+      "src": "../../node_modules/@primeuix/themes/aura/index.mjs",
+      "file": "@primeuix_themes_aura.js",
+      "fileHash": "940e9cba",
+      "needsInterop": false
+    },
+    "primevue/button": {
+      "src": "../../node_modules/primevue/button/index.mjs",
+      "file": "primevue_button.js",
+      "fileHash": "873e0d80",
+      "needsInterop": false
+    },
+    "primevue/selectbutton": {
+      "src": "../../node_modules/primevue/selectbutton/index.mjs",
+      "file": "primevue_selectbutton.js",
+      "fileHash": "80822dec",
+      "needsInterop": false
+    },
+    "vue-i18n": {
+      "src": "../../node_modules/vue-i18n/dist/vue-i18n.mjs",
+      "file": "vue-i18n.js",
+      "fileHash": "8ebab8ca",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-EWWDXCKO": {
+      "file": "chunk-EWWDXCKO.js"
+    },
+    "chunk-Z6HNLL2G": {
+      "file": "chunk-Z6HNLL2G.js"
+    },
+    "chunk-GY7FY3NU": {
+      "file": "chunk-GY7FY3NU.js"
+    }
+  }
+}
