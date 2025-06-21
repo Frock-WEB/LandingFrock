@@ -1,0 +1,89 @@
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  --cl-orange: #ff6d38;
+  --cl-purple: #7a78ff;
+  --cl-lime: #c7ff69;
+  --cl-white: #fdf9f0;
+  --cl-black: #141414;
+  --cl-yellow: #ffc412;
+  --cl-green: #00a652;
+  --cl-blue: #478bff;
+  --cl-yellow-300: #ffeeba;
+  --cl-orange-300: #ffcdba;
+  --cl-blue-300: #b9ddfd;
+  --cl-purple-300: #ccf;
+  --cl-purple-100: #e7ebff;
+  --cl-background-50: #141414b7;
+  --sideMargin: 8rem;
+  --sideMarginMobile: 2.4rem;
+  --n-out: cubic-bezier(.22,1,.36,1);
+  --n-in-out: cubic-bezier(.84,0,.16,1);
+
+}
+
+a {
+  font-weight: 500;
+  color: #646cff;
+  text-decoration: inherit;
+}
+a:hover {
+  color: #535bf2;
+}
+
+body {
+  margin: 0;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
+button {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #1a1a1a;
+  cursor: pointer;
+  transition: border-color 0.25s;
+}
+button:hover {
+  border-color: #646cff;
+}
+button:focus,
+button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
+
+.card {
+  padding: 2em;
+}
+
+
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #ffffff;
+  }
+  a:hover {
+    color: #747bff;
+  }
+  button {
+    background-color: #f9f9f9;
+  }
+}

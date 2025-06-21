@@ -1,0 +1,88 @@
+﻿{
+  "nav": {
+    "home": "Inicio",
+    "how-it-works": "Cómo funciona",
+    "advantages": "Ventajas",
+    "collaborate": "Colabora"
+  },
+
+  "hero": {
+    "title" : "Tu colectivo listo cuando tú lo estés",
+    "description": "Encuentra el colectivo que necesitas para llegar a tu destino, explora las rutas y encuentra el que mejor se adapte a tus necesidades.",
+    "button-text" : "Explora las paraderos"
+  },
+
+  "how-it-works": {
+    "title": "¿Cómo funciona?",
+    "number1": "Filtra tu ciudad o localidad",
+    "number2": "Presiona sobre el paradero que buscas",
+    "number3": "Obtén información sobre el paradero, horarios, etc."
+  },
+
+  "advantages": {
+    "title": "Ventajas de usar Chapa Tu Ruta",
+
+    "first": {
+      "title": "Encuentra colectivos cerca de ti",
+      "description": "Ubica fácilmente los paraderos disponibles en tu zona sin tener que preguntar a desconocidos."
+    },
+    "second": {
+      "title": "Olvídate de la desinformación",
+      "description": "Toda la información organizada y validada por la comunidad en un solo lugar."
+    },
+    "third": {
+      "title": "Evita caminar de más o perder tiempo",
+      "description": "Llega directo al paradero más cercano con rutas claras y actualizadas."
+    },
+    "fourth": {
+      "title": "Ideal para viajeros nuevos o visitantes",
+      "description": "¿Vienes de otro distrito o ciudad? ChapaTuRuta te guía paso a paso."
+    },
+    "fifth": {
+      "title": "Hecho en Perú, pensado para ti",
+      "description": "Una herramienta creada por peruanos que conocen de verdad cómo se mueve el país."
+    }
+  },
+
+  "FAQ": {
+    "helper-text": "Tú preguntas, nosotros respondemos",
+    "title": "Las Preguntas Más Frecuentes",
+
+    "first": {
+      "question": "¿Cuánto cuesta usar ChapaTuRuta?",
+      "answer": "¡Nada! Es completamente gratuita para los viajeros."
+    },
+    "second": {
+      "question": "¿También funciona para taxis colectivos o solo autos rurales?",
+      "answer": "Funciona para todo tipo de colectivos que hagan rutas fijas o semi-fijas entre distritos, ciudades o pueblos."
+    },
+    "third": {
+      "question": "¿Cómo puedo colaborar con ChapaTuRuta?",
+      "answer": "Puedes reportar errores, subir nuevos paraderos o rutas, o incluso ser voluntario local. ¡Toda ayuda suma!"
+    },
+    "fourth": {
+      "question": "¿Qué hago si no encuentro una ruta?",
+      "answer": "Puedes buscar rutas cercanas, probar con otros puntos, o enviarnos una sugerencia desde el formulario de contacto."
+    },
+    "fifth": {
+      "question": "¿ChapaTuRuta funciona en todo el Perú?",
+      "answer": "Estamos creciendo poco a poco, pero con la ayuda de la comunidad lograremos expandirnos a todo el país en el futuro.\n\n"
+    }
+  },
+
+  "footer": {
+    "social-media": "Redes sociales",
+
+    "links": {
+      "title": "Enlaces",
+      "home": "Inicio",
+      "how-it-works": "Cómo funciona",
+      "advantages": "Ventajas",
+      "collaborate": "Colabora"
+    },
+
+    "contact-us": "Contáctanos",
+
+    "copyright": "Todos los derechos reservados."
+  }
+}
