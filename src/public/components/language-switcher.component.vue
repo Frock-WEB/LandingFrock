@@ -14,5 +14,4 @@ export default {
 <template>
   <pb-SelectButton v-model="$i18n.locale" :options="languages">
   </pb-SelectButton>
-
 </template>

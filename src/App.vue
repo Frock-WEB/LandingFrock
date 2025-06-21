@@ -5,7 +5,6 @@ import homeView from "/src/public/pages/homeView.component.vue"
 export default {
 
 components: { homeView },
-
 }
 
 </script>

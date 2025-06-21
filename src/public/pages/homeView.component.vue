@@ -14,7 +14,7 @@ export default{
   <header>
     <div id="header-container">
       <img src="/src/assets/img/logo-chapaturuta.png" alt="logo" class="logoChapa">
-      <nav>
+      <nav class="buttons-nav">
         <ul>
           <li><a href="#">{{$t('nav.home')}}</a></li>
           <li><a href="#">{{$t('nav.how-it-works')}}</a></li>
@@ -243,11 +243,16 @@ nav a:hover::after {
   width: 100%;
 }
 
+@media (max-width: 1100px) {
+  .buttons-nav{
+    display: none;
+  }
+}
+
 @media (max-width: 768px) {
   #header-container {
     padding: 0 var(--sideMarginMobile);
   }
-
   nav ul {
     gap: 1rem;
   }
