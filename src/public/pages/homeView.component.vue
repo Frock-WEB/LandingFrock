@@ -133,6 +133,36 @@ export default{
       </div>
     </div>
   </div>
+
+  <!-- Videos en fila con títulos antes del footer -->
+  <div id="videos-row" style="display: flex; justify-content: center; gap: 2rem; margin: 2rem 0; flex-wrap: wrap;">
+    <div style="display: flex; flex-direction: column; align-items: center;">
+      <h3 style="margin-bottom: 1rem; color: #fff;">About the team</h3>
+      <iframe
+        width="350"
+        height="197"
+        src="https://www.youtube.com/embed/RsBVAj3SiI0"
+        title="About the team"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen>
+      </iframe>
+    </div>
+    <div style="display: flex; flex-direction: column; align-items: center;">
+      <h3 style="margin-bottom: 1rem; color: #fff;">About the product</h3>
+      <iframe
+        width="350"
+        height="197"
+        src="https://www.youtube.com/embed/r5nRowPYZQg"
+        title="About the product"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen>
+      </iframe>
+    </div>
+  </div>
+
+
   <footer class="footer-section">
     <div class="footer-content-container">
       <div class="footer-content">
