@@ -31,7 +31,15 @@ export default{
       <div id="hero-content">
         <h1>{{$t('hero.title')}}</h1>
         <p>{{$t('hero.description')}}</p>
-        <button class="button-primary">{{$t('hero.button-text')}}</button>
+        <!-- Suponiendo que este es el primer botón button-primary -->
+        <a
+          class="button-primary"
+          href="https://deft-tapioca-c27a9c.netlify.app"
+          target="_blank"
+          rel="noopener"
+        >
+          {{$t('hero.button-text')}}
+        </a>
       </div>
       <img id="hero-image" src="/src/assets/img/hero-section.png"  alt="ubicaciones">
     </div>
